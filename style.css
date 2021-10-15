@@ -1,0 +1,11 @@
+h1 {
+    font-size: 35px;
+    color: red;
+    border-style: solid;
+}
+
+h2 {
+    font-size: 45px;
+    color: black;
+    border-style: solid;
+}
