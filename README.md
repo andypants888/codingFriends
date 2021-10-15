@@ -1,9 +1,6 @@
-# codingFriends
-practice repo with friends
+# codingFriends Practice Pull Requests (orginally from hacktoberfest)
 
-# Hacktoberfest Practice Pull Requests
-
-Repo for you to raise a Pull Request for practice.
+Repo for you to raise a Pull Request or contribute for practice. 
 
 **Just add your name to the alphabetical list (contributors)**
 
